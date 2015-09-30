@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 尚書地理今釋
-#+DATE: 2015-09-23 09:36:22
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:04:00.518776
+#+PROPERTY: ID KR1b0057
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 尚書地理今釋
 <pb:KR1b0057_WYG_001-1a>¶
 欽定四庫全書¶
 　尚書地理今釋¶
@@ -1028,4 +1030,3 @@
 　¶
 　¶
 　尚書地理今釋¶
-
